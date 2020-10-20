@@ -16,7 +16,7 @@ Siobhan Schenk :swimmer: :bike: :runner:
 **This is a repository for all the information related to the seagrass x bacteria x diatoms x fungi project**
 
 
-![](https://github.com/eadamczyk/seagrass_diatoms_microbes/blob/master/pictures/diatoms_on_seagrass_SEM.jpg)
+![](https://github.com/eadamczyk/seagrass_diatoms_microbes/blob/master/pictures/diatoms_on_eelgrass_2.jpg)
 *Get ready for these amazing bebes!*
 
 ---------------------------------------------------------------------------------------------------------------------------------
